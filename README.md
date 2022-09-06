@@ -1,11 +1,13 @@
-# crud_springboot_html_jwt
-Sistema de gestión de usuarios
-
+# Sistema de gestión de usuarios
+- Uso de las tecnologias: 
+- Frontend: HTML, Bootstrap.
+- Backend: Springboot, Hibernate, JWT, API Rest.
+**
 - Uso patron de inyeción de dependencias
 - Estándar JWT para el control de sesiones de usuario
 - REST creacion de servicios con spring boot & Hibernate
-
-# Uso aplicación (BD arriba)
+**
+## Uso aplicación (BD arriba)
 - Principal
 http://localhost:8080/
 Mostrar la plantilla por defecto de los elementos estaticos
@@ -19,15 +21,14 @@ http://localhost:8080/login.html
 - Mostrara la siguiente página donde carga todos los usuarios registados en la BD
 http://localhost:8080/users.html
 
-# Consulta endpoint
+## Consulta endpoint
 
-
-# Script SQL
+## Script SQL
 - En el archivo bd_javafullstack.sql
 Se encuentran todos los script de creación BD, tablas y consultas
 
-# Diapositva
+## Diapositva
 Material teorico relacionado que te servira de estudio
 
-# Librerias
+## Librerias
 Estan en el archivo porn para el funcionamiento de la aplicación
